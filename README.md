@@ -17,3 +17,9 @@
 `Deepti Mam`, `Gaurav Sir`, `Rudransh Sir` & `All respected faculty members`
 
 Share your code with `gaurav@gracetech.co.in`
+
+## Other resource
+
+[`Bitwise Operators`](https://www.scaler.com/topics/bitwise-operator-in-python)
+[`XOR Encryption`](https://www.101computing.net/xor-encryption-algorithm)
+[`File handling`](https://www.geeksforgeeks.org/file-handling-python)
