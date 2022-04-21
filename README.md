@@ -14,4 +14,4 @@
 
 
 ### Special Thanks to
-`Deepti Mam`, `Gaurav Sir`, `Rudransh Sir` & `All staff included`
+`Deepti Mam`, `Gaurav Sir`, `Rudransh Sir` & `All respected faculty members`
